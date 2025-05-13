@@ -63,5 +63,5 @@ This repository contains a data analytics project focused on **credit card fraud
 For questions or collaboration inquiries:
 
 * GitHub: [github.com/seerapuveerapavankumar](https://github.com/seerapuveerapavankumar)
-* Email: \[[vpavan.seerapu@gmail.com](mailto: vpavan.seerapu@gmail.com)]
+* Email: \[vpavan.seerapu@gmail.com]
 
